@@ -1,0 +1,6 @@
+config msu2 'settings'
+	option enabled '1'
+	option page 'auto'
+	option interval '1'
+	option rotate '15'
+	option direction '0'
