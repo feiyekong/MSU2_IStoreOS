@@ -1,0 +1,20 @@
+# Python 缓存与编译产物
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 运行期文件
+var/
+*.log
+*.pid
+
+# 本地工具
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时预览输出
+/tmp/
+/preview/
