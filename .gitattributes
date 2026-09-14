@@ -1,0 +1,12 @@
+# 统一文本换行；dist 下的自解压脚本/压缩包禁止 Git 转换
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.png binary
+*.gz binary
+*.tar binary
+dist/*.sh binary
+dist/*.tar.gz binary
